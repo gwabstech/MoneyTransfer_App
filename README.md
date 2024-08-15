@@ -63,13 +63,11 @@ Follow these instructions to get a copy of the project up and running on your lo
 2. Run the app:
 
     - Connect your Android device or start an emulator.
-    - Click the `Run` button or use the shortcut `Shift + F10`.
-
-## Demo
-
-[Watch the demo video](https://youtu.be/HYCVczBNfHg)
+    - Click the `Run` button or use the shortcut `Shift + F10`
+    - Login Details `Email`  gwabstech@mail.com `Password`  123456.
 
 ### Demo Video
+[Watch the demo video](https://youtu.be/HYCVczBNfHg)
 
 ## Documentation
 
